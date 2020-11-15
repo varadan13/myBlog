@@ -1,3 +1,14 @@
+---
+
+title: "ANOVA FROM SCRATCH"
+collection: Notebooks
+permalink: /Notebooks/ANOVA
+layout: post
+Description: 'ANOVA from scratch'
+
+---
+
+
 ```
 from google.colab import drive
 drive.mount('/content/drive')

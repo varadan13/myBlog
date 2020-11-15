@@ -1,11 +1,9 @@
 ---
-
 title: "ANOVA FROM SCRATCH"
 collection: Notebooks
 permalink: /Notebooks/ANOVA
 layout: post
 Description: 'ANOVA from scratch'
-
 ---
 
 

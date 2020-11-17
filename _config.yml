@@ -69,5 +69,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
    math_engine: mathjax
+   input: GFM
+   
 
 

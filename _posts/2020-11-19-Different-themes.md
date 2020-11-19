@@ -3,8 +3,6 @@ title: "HOW TO USE DIFFERENT THEME IN JEKYLL RUN WITHIN A LOCAL MACHINE"
 layout: post
 ---
 
-## HOW TO USE DIFFERENT THEME IN JEKYLL RUN WITHIN A LOCAL MACHINE
-
 STEP 1 - Go to the official page of the theme. Check what its gem named.  
 STEP 2 - add that gem to the gem file  
 STEP 3 - run bundle update from command line  

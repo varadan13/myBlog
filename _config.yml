@@ -51,19 +51,13 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 collections:
-  Projects:
-    output: true
-    permalink: /:collection/:path/
   Notebooks:
     output: true
     permalink: /:collection/:path/
-  
   MentalMath:
     output: true
     permalink: /:collection/:path/
-  InnumerateMe:
-    output: true
-    permalink: /:collection/:path/
+  
 
 markdown: kramdown
 highlighter: rouge

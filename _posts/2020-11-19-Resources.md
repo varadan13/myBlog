@@ -2,9 +2,6 @@
 title: "Resources to figure out Jekyll"
 layout: post
 ---
-
-## Resources to figure out Jekyll.
-
 (Work in progress)
 
 ### What is Jekyll?

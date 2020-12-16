@@ -4,7 +4,6 @@ layout: page
 permalink: /ACET/
 ---
 
-### Free formula sheets and theory to crack Actuarial Common Entrance Test   
 
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} 
 {% for item in site.ACET %}

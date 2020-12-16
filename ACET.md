@@ -3,8 +3,6 @@ title: ACET
 layout: page
 permalink: /ACET/
 ---
-
-
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} 
 {% for item in site.ACET %}
 

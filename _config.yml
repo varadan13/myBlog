@@ -58,6 +58,9 @@ collections:
   MentalMath:
     output: true
     permalink: /:collection/:path/
+  ACET:
+    output: true
+    permalink: /:collection/:path/
   
 
 markdown: kramdown

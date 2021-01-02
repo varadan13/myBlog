@@ -55,13 +55,7 @@ collections:
   Notebooks:
     output: true
     permalink: /:collection/:path/
-  MentalMath:
-    output: true
-    permalink: /:collection/:path/
-  ACET:
-    output: true
-    permalink: /:collection/:path/
-  
+
 
 markdown: kramdown
 highlighter: rouge

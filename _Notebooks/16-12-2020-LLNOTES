@@ -1,7 +1,0 @@
----
-title: "Notes-Linked List implemented in Python"
-collection: Notebooks
-layout: post
-Description: 'A linked list is a sequence of data elements, which are connected together via links. Code to create such a list and create additional methods to insert, update and remove elements from the list.'
-redirect_to: https://nbviewer.jupyter.org/github/varadan13/varadan13.github.io/blob/master/_Notebooks/_LinkedList.ipynb
----

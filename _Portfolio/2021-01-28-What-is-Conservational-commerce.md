@@ -1,7 +1,7 @@
 ---
 title: "What is Conversational Commerce?"
 layout: post
-permalink: /ics/
+permalink: /cc/
 ---
 
 In 2016, [Chriss Messina](https://en.wikipedia.org/wiki/Chris_Messina_(open-source_advocate)) the founder of hashtags coined the term conversational commerce and the definition according to him, "Conversational commerce is about delivering convenience, personalization, and decision support while people are on the go, with only partial attention to spare." Before the emergence of messaging as the dominant mode of communications, brands needed to rely on things like phone calls, emails, live chat and in-store representatives to actually talk to and provide convenience to their consumers and today with technological improvements it is feasible for various enterprises to deploy chatbots in many different ways and in many different combination to maximise their consumer experience.  

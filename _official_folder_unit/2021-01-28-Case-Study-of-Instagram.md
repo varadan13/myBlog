@@ -1,6 +1,6 @@
 ---
 title: "Instagram Case Study"
-layout: post
+layout: page
 permalink: /incs/
 ---
 

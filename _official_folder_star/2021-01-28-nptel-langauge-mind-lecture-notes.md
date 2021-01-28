@@ -1,7 +1,7 @@
 ---
 title: "Nptel langauge mind lecture notes"
 layout: post
-permalink: /off/nlmln/
+permalink: /off/nlmln
 ---
 
 ### What is the difference between Language and Languages?

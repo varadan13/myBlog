@@ -37,7 +37,6 @@ I have hosted some of my finished and unfinished works in my [github profile](ht
     > -   I had to unwillingly help a friend of friend of mine during the lockdown period to run the inference part of this project and I don't think I did a good job but I value the effort that I took to first learn what is meta analysis and how to solve various practical difficulties involved in this project.  
     > -   I was able to successfully extract all the possible treatment effects from the sampled research materials and then use random effect model to draw inference.  
     > -   The software that I used in this project was Revman.  
--
 
 ### OTHER PROJECTS
 
@@ -58,8 +57,7 @@ I have hosted some of my finished and unfinished works in my [github profile](ht
     > > -   What are the assumptions made in the paper?
     > > -   What is the model used in the paper?  
     > > -   Are the results replicable
-    > > -   etc.
--
+    > > -   etc. 
 
 ### MY WRITINGS
 
@@ -67,8 +65,8 @@ I have hosted some of my finished and unfinished works in my [github profile](ht
 -  [A case study of success of Instagram](https://varadan13.github.io/2021/01/28/Case-Study-of-Instagram.html)
 -  [Secret Life of Secrets ](https://varadan13.github.io/2021/01/12/psych.html) 
 -  [What I learned from Covid](https://varadan13.github.io/2020/12/10/what-I-learned-from-covid.html)
--  [Resources to figure out Jekyll](https://varadan13.github.io/2020/11/19/Resources.html)
--
+-  [Resources to figure out Jekyll](https://varadan13.github.io/2020/11/19/Resources.html)  
+
 
 ### Analysis of Various Startups in India.
 

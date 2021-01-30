@@ -5,7 +5,7 @@ layout: post
 
 **CONTACT INFO**
 
--   Linkedin : [Aneesh R](www.linkedin.com/in/aneesh-r-91910b1ab)
+-   Linkedin : [Aneesh R](https://linkedin.com/in/aneesh-r-91910b1ab)
 -   Github  :  [varadan13](https://github.com/varadan13)
 -   Email Id : [rcaesar1996@gmail.com](mailto:rcaesar1996@gmail.com)
 
